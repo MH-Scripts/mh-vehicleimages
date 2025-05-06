@@ -26,7 +26,7 @@
 # My Youtube Channel
 - [Subscribe](https://www.youtube.com/@MaDHouSe79) 
 
-# Who to use 
+# How to use 
 ```lua
 -- the image nui:// location
 local image = exports['mh-vehicleimages']:GetImage(vehicle_model)
